@@ -1,3 +1,12 @@
+## Code 
+
+1. ***run.py***: Reads pitch data file and combinations.txt to generate the Stats mentioned in combinations.txt file. Processes queries and appends the results to Pandas DataFrame. Sorts and writes results to csv as per problem statement.
+2. ***setup.py***: Modified file to create pypi package.
+3. ***requirements.txt***: Modified to include necessary packages along with PyPi package PythonHiringTest to make the code instllable.
+
+
+# Problem Statement 
+
 ## Terminology
 1. **Subject**: A field that is grouped on; analogous to SQL's "GROUP BY"  
 clause.  
